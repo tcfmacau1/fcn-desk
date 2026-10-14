@@ -1,0 +1,24 @@
+{
+  "name": "FCN Desk",
+  "short_name": "FCN",
+  "id": "/fcn-desk/",
+  "start_url": "/fcn-desk/",
+  "scope": "/fcn-desk/",
+  "display": "standalone",
+  "background_color": "#0c0705",
+  "theme_color": "#0c0705",
+  "icons": [
+    {
+      "src": "/fcn-desk/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/fcn-desk/__grok/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
